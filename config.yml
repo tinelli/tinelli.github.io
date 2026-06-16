@@ -1,5 +1,5 @@
 baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+title: Cesare Tinelli
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -12,25 +12,37 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Papers
+        - name: Publications
           url: papers/
+          weight: 1
+        - name: Talks
+          url: talks/
           weight: 2
+        - name: Projects
+          url: projects/
+          weight: 3
+        - name: Honors
+          url: honors/
+          weight: 4
+        - name: Credits
+          url: credits/
+          weight: 5
+        - name: Advising
+          url: advising/
+          weight: 6
         - name: Courses
           url: courses/
-          weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+          weight: 7
+        - name: Service
+          url: service/
+          weight: 8 
+        # - name: Blog
+        #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+        #   weight: 6
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
+    author: Cesare Tinelli
+    description: "This website hosts Cesare Tinelli's academic information."
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -46,7 +58,7 @@ params:
     ShowAllPagesInArchive: false
     MainSections: ["books","courses","papers","data"]
     ShowToc: false
-    disableScrollToTop: true
+    disableScrollToTop: false
     TocOpen: true
     ShowWordCount: false
     UseHugoToc: true
@@ -54,50 +66,62 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
-          imageUrl: "picture.jpeg"
-          imageWidth: 160
-          imageHeight: 160
+          title: Professor Cesare Tinelli
+          subtitle: "I am a Professor at the University of Iowa."
+          imageUrl: "images/ct.jpg"
+          imageWidth: 165
+          imageHeight: 190
           buttons:
-            - name: Papers
+            - name: Publications
               url: papers/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
+            - name: "Selected Talks"
+              url: talks/
+            - name: "Projects & Grants"
+              url: projects/
+            # - name: Books
+            #   url: books/
+            - name: Acknowledgments
+              url: credit/
+            - name: "Honors & Awards"
+              url: honors/
+            - name: "Advising"
+              url: advising/
             - name: Courses
               url: courses/
-            - name: Tags
-              url: tags/
+            - name: Service
+              url: service/
+            # - name: Tags
+            #   url: tags/
             - name: Archive
               url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            # - name: Blog
+            #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
         - name: CV
-          url: cv.pdf
-        - name: Email
-          url: mailto:user@gmail.com
-        - name: Zoom
-          url: https://www.zoom.us/my/user
+          url: docs/cv.pdf
+        # - name: Email
+        #   url: mailto:user@gmail.com
+        # - name: Zoom
+        #   url: https://www.zoom.us/my/user
         - name: Location
           url: location/
         - name: Office Hours
           url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=user
-        - name: GitHub
-          url: https://github.com/user
-        - name: YouTube
-          url: https://www.youtube.com/@user
-        - name: Substack
-          url: https://user.substack.com
-        - name: Twitter
-          url: https://x.com/user
-        - name: Bluesky
-          url: https://bsky.app/profile/user.bsky.social
+          url: https://scholar.google.com/citations?user=wbZc9nUAAAAJ&hl=en
+        - name: ORCID ID
+          url: https://orcid.org/0000-0002-6726-775X
+        # - name: GitHub
+        #   url: https://github.com/user
+        # - name: YouTube
+        #   url: https://www.youtube.com/@user
+        # - name: Substack
+        #   url: https://user.substack.com
+        # - name: Twitter
+        #   url: https://x.com/user
+        # - name: Bluesky
+        #   url: https://bsky.app/profile/user.bsky.social
 
     assets:
         disableScrollBarStyle: true
@@ -105,8 +129,8 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
-      icon: favicon.ico
+      text: "Cesare Tinelli"
+      icon: images/home.png
       iconHeight: 18
 
 markup:
