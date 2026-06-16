@@ -42,12 +42,12 @@ menu:
 
 params:
     author: Cesare Tinelli
-    description: "This website hosts Cesare Tinelli's academic information."
+    description: "This website hosts Prof. Cesare Tinelli's academic information."
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
-    disableThemeToggle: true
+    disableThemeToggle: false
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true
@@ -56,7 +56,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["papers","talks","projects","honors","credits","advising","courses","service","data"]
     ShowToc: false
     disableScrollToTop: false
     TocOpen: true
@@ -92,8 +92,8 @@ params:
               url: service/
             # - name: Tags
             #   url: tags/
-            - name: Archive
-              url: archive/
+            # - name: Archive
+            #   url: archive/
             # - name: Blog
             #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
@@ -131,7 +131,7 @@ params:
     label:
       text: "Cesare Tinelli"
       icon: images/home.png
-      iconHeight: 18
+      iconHeight: 20
 
 markup:
     goldmark:

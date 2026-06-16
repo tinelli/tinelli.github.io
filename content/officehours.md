@@ -21,5 +21,4 @@ By appointment (Office or Zoom).
 
 **Zoom:** [884 316 858](<https://uiowa.zoom.us/j/884316858>)
 
-
 ---
