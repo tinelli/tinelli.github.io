@@ -36,7 +36,7 @@ description: "Students and postdocs advised by Prof. Cesare Tinelli."
 - [Adrien Champion](https://jp.linkedin.com/in/adrienchampion), postdoc (2014--17, later at the [University of Tokyo](https://www.u-tokyo.ac.jp/en/), OCamlPro)
 - [Burak Ekici](http://ekiciburak.github.io/), postdoc (2016, later at the [University of Innsbruck](https://www.uibk.ac.at/index.html.en), University of Oxford)
 - Nestan Tsiskaridze, postdoc (2013--16, later at [UCSB](https://www.ucsb.edu/), Stanford University)
-- Christoph Sticksel, postdoc (2013--15, later at [MathWorks](http://www.mathworks.com))
+- [Christoph Sticksel](https://www.sticksel.info/christoph/), postdoc (2013--15, later at [MathWorks](http://www.mathworks.com))
 - Hasib Shakur, MCS (grad. 2015, later at [Epic](http://www.epic.com/))
 - Tianyi Liang, PhD and postdoc (grad. 2015, later at [Two Sigma](http://www.twosigma.com/))
 - Liana Hadarean, PhD (grad. 2014, NYU, co-advised, later at [University of Oxford](http://www.cs.ox.ac.uk/), AWS)

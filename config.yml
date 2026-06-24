@@ -38,7 +38,10 @@ menu:
           weight: 7
         - name: Service
           url: service/
-          weight: 8 
+          weight: 8
+        - name: CLC
+          url: https://clc.cs.uiowa.edu/site/
+          weight: 9
         # - name: Blog
         #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
         #   weight: 6
@@ -59,7 +62,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["papers","talks","projects","honors","credits","advising","courses","service","data"]
+    MainSections: ["papers","talks","projects","honors","credits","advising","courses","service","CLC"]
     ShowToc: false
     disableScrollToTop: false
     TocOpen: true
@@ -86,7 +89,7 @@ params:
             # - name: Books
             #   url: books/
             - name: Acknowledgments
-              url: credit/
+              url: credits/
             - name: "Honors & Awards"
               url: honors/
             - name: "Advising"
