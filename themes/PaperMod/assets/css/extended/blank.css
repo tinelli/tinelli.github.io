@@ -6,13 +6,17 @@ Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-cs
 
 
 a {
-  /* color: #1c90f3; */
-  color: orange;
-  text-decoration-line: none;
+  box-shadow: none !important;
+  color: #C18F32 !important;
 }
 
 a:hover {
-  /* color: #0056b3; */
-  color: rgb(57, 38, 2);
-  text-decoration: none;
+  color: orange !important;
 }
+
+
+/* 
+.p a {
+    text-decoration: none !important;
+    border-bottom: none !important;
+} */
