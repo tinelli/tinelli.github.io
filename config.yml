@@ -53,7 +53,8 @@ params:
   profileMode:
     title: Professor Cesare Tinelli
     subtitle: 
-     "I am a Professor at the [University of Iowa](https://www.uiowa.edu/). 
+     "I am a Professor of [Computer Science](https://www.cs.uiowa.edu/)
+      at the [University of Iowa](https://www.uiowa.edu/). 
       I have a PhD from the University of Illinois at Urbana-Champaign.
       My research interests include automated reasoning, formal methods, and 
       software verification.
@@ -62,7 +63,7 @@ params:
       I am one of the founding faculty members 
       of the [Computational Logic Center](https://clc.cs.uiowa.edu/site/) at Iowa.
       <br><br>
-      <b>I am always looking for motivated graduate students and postdocs to join my team.</b>
+      I am always **looking for motivated graduate students and postdocs** to join my team.
       If you are a prospective student, please read [this page](prospective-students) before contacting my.
       If you are a prospective postdoc, please contact me directly for more information
       on possible openings.
