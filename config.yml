@@ -11,144 +11,150 @@ taxonomies:
     tag: tags
 
 menu:
-    main:
-        - name: "About me"
-          url: about/
-          weight: 1
-        - name: Publications
-          url: papers/
-          weight: 1
-        - name: Talks
-          url: talks/
-          weight: 2
-        - name: Projects
-          url: projects/
-          weight: 3
-        - name: Honors
-          url: honors/
-          weight: 4
-        - name: Credits
-          url: credits/
-          weight: 5
-        - name: Advising
-          url: advising/
-          weight: 6
-        - name: Courses
-          url: courses/
-          weight: 7
-        - name: Service
-          url: service/
-          weight: 8
-        - name: CLC
-          url: https://clc.cs.uiowa.edu/site/
-          weight: 9
-        # - name: Blog
-        #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-        #   weight: 6
+  main:
+  - name: About
+    url: about/
+    weight: 1
+  - name: Publications
+    url: papers/
+    weight: 2
+  - name: Talks
+    url: talks/
+    weight: 3
+  - name: Projects
+    url: projects/
+    weight: 4
+  - name: Honors
+    url: honors/
+    weight: 5
+  - name: Credits
+    url: credits/
+    weight: 6
+  - name: Advising
+    url: advising/
+    weight: 7
+  - name: Courses
+    url: courses/
+    weight: 8
+  - name: Service
+    url: service/
+    weight: 9
+  - name: CLC
+    url: https://clc.cs.uiowa.edu/site/
+    weight: 10
+  # - name: Blog
+  #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+  #   weight: 11
 
 params:
-    author: Cesare Tinelli
-    description: "This website hosts Prof. Cesare Tinelli's academic information."
-    # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "January 2006"
-    defaultTheme: light
-    hideFooter: false
-    disableThemeToggle: false
-    ShowShareButtons: false
-    ShowReadingTime: false
-    disableSpecial1stPost: true
-    disableAnchoredHeadings: true
-    ShowPostNavLinks: false
-    ShowBreadCrumbs: false
-    ShowCodeCopyButtons: true
-    ShowAllPagesInArchive: false
-    MainSections: ["papers","talks","projects","honors","credits","advising","courses","service","CLC"]
-    ShowToc: false
-    disableScrollToTop: false
-    TocOpen: true
-    ShowWordCount: false
-    UseHugoToc: true
-    comments: false
-    math: true
-    profileMode:
-          enabled: true
-          title: Professor Cesare Tinelli
-          subtitle: "I am a Professor at the University of Iowa."
-          imageUrl: "images/ct.jpg"
-          imageWidth: 165
-          imageHeight: 190
-          buttons:
-            - name: "About me"
-              url: about/
-            - name: Publications
-              url: papers/
-            - name: "Selected Talks"
-              url: talks/
-            - name: "Projects & Grants"
-              url: projects/
-            # - name: Books
-            #   url: books/
-            - name: Acknowledgments
-              url: credits/
-            - name: "Honors & Awards"
-              url: honors/
-            - name: "Advising"
-              url: advising/
-            - name: Courses
-              url: courses/
-            - name: Service
-              url: service/
-            # - name: Tags
-            #   url: tags/
-            # - name: Archive
-            #   url: archive/
-            # - name: Blog
-            #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+  author: Cesare Tinelli
+  description: "This website hosts Prof. Cesare Tinelli's academic information."
+  MainSections: ["papers","talks","projects","honors","credits","advising","courses","service","CLC"]
+  profileMode:
+    title: Professor Cesare Tinelli
+    subtitle: 
+     "I am a Professor at the [University of Iowa](https://www.uiowa.edu/). 
+      I have a PhD from the University of Illinois at Urbana-Champaign.
+      My research interests include automated reasoning, formal methods, and 
+      software verification.
+      I have done foundational work in [Satisfiability Modulo Theories](http://en.wikipedia.org/wiki/Satisfiability_Modulo_Theories) (SMT) and
+      developed several tools and techniques for automated reasoning.
+      I am one of the founding faculty members 
+      of the [Computational Logic Center](https://clc.cs.uiowa.edu/site/) at Iowa.
+      <br><br>
+      <b>I am always looking for motivated graduate students and postdocs to join my team.</b>
+      If you are a prospective student, please read [this page](prospective-students) before contacting my.
+      If you are a prospective postdoc, please contact me directly for more information
+      on possible openings.
+      "
+    enabled: true
+    imageUrl: "images/ct.jpg"
+    imageWidth: 165
+    imageHeight: 190
+    buttons:
+      - name: "About me"
+        url: about/
+      - name: Publications
+        url: papers/
+      - name: "Selected Talks"
+        url: talks/
+      - name: "Projects & Grants"
+        url: projects/
+      # - name: Books
+      #   url: books/
+      - name: Acknowledgments
+        url: credits/
+      - name: "Honors & Awards"
+        url: honors/
+      - name: "Advising"
+        url: advising/
+      - name: Courses
+        url: courses/
+      - name: Service
+        url: service/
+      # - name: Tags
+      #   url: tags/
+      # - name: Archive
+      #   url: archive/
+      # - name: Blog
+      #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+  # googleAnalyticsID: "G-XXXXX"
+  DateFormat: "January 2006"
+  defaultTheme: light
+  hideFooter: false
+  disableThemeToggle: false
+  ShowShareButtons: false
+  ShowReadingTime: false
+  disableSpecial1stPost: true
+  disableAnchoredHeadings: true
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  ShowAllPagesInArchive: false
+  disableScrollToTop: false
+  ShowToc: true
+  TocOpen: true
+  ShowWordCount: false
+  UseHugoToc: true
+  comments: false
+  math: true
 
-    socialIcons:
-        - name: CV
-          url: docs/cv.pdf
-        # - name: Email
-        #   url: mailto:user@gmail.com
-        # - name: Zoom
-        #   url: https://www.zoom.us/my/user
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=wbZc9nUAAAAJ&hl=en
-        - name: orcid
-          url: https://orcid.org/0000-0002-6726-775X
-        # - name: GitHub
-        #   url: https://github.com/user
-        # - name: YouTube
-        #   url: https://www.youtube.com/@user
-        # - name: Substack
-        #   url: https://user.substack.com
-        # - name: Twitter
-        #   url: https://x.com/user
-        # - name: Bluesky
-        #   url: https://bsky.app/profile/user.bsky.social
+  socialIcons:
+    - name: CV
+      url: docs/cv.pdf
+    - name: Email
+      url: mailto:cesare-tinelli@uiowa.edu
+    # - name: Zoom
+    #   url: https://www.zoom.us/my/user
+    - name: Location
+      url: location/
+    - name: Office Hours
+      url: officehours/
+    - name: Google Scholar
+      url: https://scholar.google.com/citations?user=wbZc9nUAAAAJ&hl=en
+    - name: orcid
+      url: https://orcid.org/0000-0002-6726-775X
+    # - name: GitHub
+    #   url: https://github.com/user
 
-    assets:
+  assets:
         disableScrollBarStyle: true
-    cover:
+  cover:
         hiddenInList: false
         hiddenInSingle: true
-    label:
+  label:
       text: "Cesare Tinelli"
       icon: images/home.png
       iconHeight: 20
 
 markup:
-    goldmark:
-        renderer:
-            unsafe: true
-    highlight:
-        guessSyntax: true
-        style: autumn 
-    tableOfContents:
-        endLevel: 2
-        ordered: false
-        startLevel: 2
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    guessSyntax: true
+    style: autumn 
+  tableOfContents:
+    startLevel: 2
+    endLevel: 2
+    ordered: false

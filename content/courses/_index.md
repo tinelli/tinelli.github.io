@@ -10,6 +10,7 @@ description: "Recent courses taught by Prof. Cesare Tinelli."
 
 
 ## Recent Courses
+---
 
 **CS:2230** Computer Science II: Data Structures [Spring 2025](https://uiowa.instructure.com/courses/247955), [Spring 2023](https://uiowa.instructure.com/courses/203749)
 

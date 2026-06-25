@@ -1,6 +1,5 @@
 ---
 title: "Location"
-date: 2024-05-08
 hidemeta: true
 description: "Professor Cesare Tinelli's mailing and office addresses at the University of Iowa."
 

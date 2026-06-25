@@ -1,20 +1,25 @@
 ---
 title: "Service"
 description: "Professional service by Prof. Cesare Tinelli."
+ShowToc: true
+TocOpen: true
 ---
 
-## Coordination
+## Service
+---
+
+### Coordination
 
 - The [SMT-LIB](http://www.SMT-LIB.org) initiative (since Aug 2003)
 
-## Editorial Boards
+### Editorial Boards
 
-- The [Journal of Automated Reasoning](http://www.springerlink.com/content/100280/) (since October 2007)
+- The [Journal of Automated Reasoning](https://link.springer.com/journal/10817) (since October 2007)
 - [Progress in Computer Science and Applied Logic](https://www.springer.com/series/4814) book series (since October 2018)
 
-## Steering Committees
+### Steering Committees
 
-- [CADE Inc.](http://www.cadeconference.org) (November 2005–November 2008)
+- [CADE Inc.](https://cadeinc.org/) (November 2005–November 2008)
 - [ETAPS](http://www.etaps.org/) (December 2013–November 2014)
 - [FroCoS](http://frocos.cs.uiowa.edu/) (since August 2010, July 2004–November 2007)
 - [FTP](http://www.csc.liv.ac.uk/FTP-WS/) (November 2003–November 2012)
@@ -22,7 +27,7 @@ description: "Professional service by Prof. Cesare Tinelli."
 - [MVD](http://clc.cs.uiowa.edu/mvd18/) (Since September 2009)
 - [SMT](http://www.smt-workshop.org) (August 2012–August 2014, September 2009–August 2011, September 2020–August 2024)
 
-## Organization
+### Organization
 
 - [OSSyM 2024](https://laboratory.temporallogic.org/ossym/), July 23, 2024, Toronto, Canada
 - [Dagstuhl Seminar 19371](http://www.dagstuhl.de/de/programm/kalender/semhp/?semnr=19371), September 8–13, 2019, Wadern, Germany
@@ -41,7 +46,7 @@ description: "Professional service by Prof. Cesare Tinelli."
 - [UNIF 2002](http://unif2002.lri.fr/), July 25–26, 2002, Copenhagen, Denmark
 - [UNIF 2001](http://combination.cs.uiowa.edu/unif2001/), June 18–19, 2001, Siena, Italy
 
-## Program Committees
+### Program Committees
 
 - [DASC 2026](https://dasconline.org/2026), September 13–17 2026, Orlando, FLA, USA
 - [CAV 2026](https://conferences.i-cav.org/2026/), July 26–29 2026, Lisbon, Portugal
@@ -134,7 +139,7 @@ description: "Professional service by Prof. Cesare Tinelli."
 - [FroCoS 2002](http://www.mrg.dist.unige.it/conferences/frocos2002/), April 8–10, 2002, Santa Margherita Ligure, Italy
 - [UNIF 2001](http://combination.cs.uiowa.edu/unif2001/), June 18–19, 2001, Siena, Italy
 
-## Journal Editing
+### Journal Editing
 
 - Special issue of *Electronic Notes in Theoretical Computer Science*, 125(3), 2005, with selected papers from PDPAR 2004 and Disproving 2004
 - Special issue of *Theoretical Computer Science*, 291(3), 2003, with selected papers from AMAST 2000

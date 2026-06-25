@@ -3,26 +3,30 @@ title: "Advising"
 description: "Students and postdocs advised by Prof. Cesare Tinelli."
 ---
 
-## Postdocs
+## Advising
+---
+
+#### Postdocs
 
 - [Mudathir Mohamed](http://homepage.divms.uiowa.edu/~mahgoubyahia)
 
-## PhD Advisees
+#### PhD Advisees
 
 - [Robert Lorch](https://lorchrob.github.io)
 - [Shweta Rajiv](https://cs.uiowa.edu/people/shweta-rajiv)
 - [Kartik Sabharwal](https://kartik-sabharwal.github.io)
 
-## MCS Advisees
+#### MCS Advisees
 
 - Joshua Bergthold
 
 <!--
-## Visiting Students
+#### Visiting Students
 
 -->
+---
 
-### Former Graduate Advisees and Postdocs
+#### Former Graduate Advisees and Postdocs
 
 - [Mudathir Mohamed](http://homepage.divms.uiowa.edu/~mahgoubyahia), PhD (grad. 2026, later at UIowa)
 - [Hans-Jörg Schurr](https://schurr.io/), postdoc (2022--25, later at KU Leuven)
@@ -51,7 +55,7 @@ description: "Students and postdocs advised by Prof. Cesare Tinelli."
 - Kirk Hackert, MS (grad. 2003)
 - Viraj Kumar, MS (grad. 2001, UIUC, co-advised, later at [Holy Cross](http://mathcs.holycross.edu/HpFaculty.htm))
 
-### Former Visiting Students
+#### Former Visiting Students
 
 - Alexander Fuchs (from Univ. of Koblenz, Germany)
 - Vijay Ganesh (from Stanford Univ.)
@@ -61,4 +65,3 @@ description: "Students and postdocs advised by Prof. Cesare Tinelli."
 - Mikaël Laurent (from ENS Paris, France)
 - Albert Oliveras (from Tech. Univ. of Catalonia, Spain)
 
-[Main Page](../index.html)
