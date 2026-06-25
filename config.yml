@@ -56,17 +56,27 @@ params:
      "I am a Professor of [Computer Science](https://www.cs.uiowa.edu/)
       at the [University of Iowa](https://www.uiowa.edu/). 
       I have a PhD from the University of Illinois at Urbana-Champaign.
-      My research interests include automated reasoning, formal methods, and 
-      software verification.
-      I have done foundational work in [Satisfiability Modulo Theories](http://en.wikipedia.org/wiki/Satisfiability_Modulo_Theories) (SMT) and
-      developed several tools and techniques for automated reasoning.
-      I am one of the founding faculty members 
-      of the [Computational Logic Center](https://clc.cs.uiowa.edu/site/) at Iowa.
+      My geneal research interests include automated reasoning, formal methods,
+      and software verification.
+      I have done foundational work in 
+      [Satisfiability Modulo Theories](http://en.wikipedia.org/wiki/Satisfiability_Modulo_Theories)
+      (SMT) and developed several automated reasoning tools and techniques.
+      My more recent work includes 
+      higher-order reasoning and reasoning by induction in SMT, 
+      proof-certificate generation in automated reasoning and model checking,
+      logical frameworks for proof systems, 
+      integration of automated theorem provers into proof assistants,
+      intermediate languages design for model checking, and 
+      model-checking-based security analysis.
+      I am one of the founding faculty members of the 
+      [Computational Logic Center](https://clc.cs.uiowa.edu/site/) at Iowa.
       <br><br>
-      I am always **looking for motivated graduate students and postdocs** to join my team.
-      If you are a prospective student, please read [this page](prospective-students) before contacting my.
-      If you are a prospective postdoc, please contact me directly for more information
-      on possible openings.
+      I am always **looking for motivated and well prepared graduate students
+      and postdocs** to join my team.
+      If you are a prospective student, please read 
+      [this page](prospective-students) before contacting me.
+      If you are a prospective postdoc, please contact me directly
+      for more information on possible openings.
       "
     enabled: true
     imageUrl: "images/ct.jpg"
