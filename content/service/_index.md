@@ -48,14 +48,17 @@ TocOpen: true
 
 ### Program Committees
 
-- [DASC 2026](https://dasconline.org/2026), September 13–17 2026, Orlando, FLA, USA
+
+- [FMCAD 2026 Student Forum](https://fmcad.org/FMCAD26/student_forum/), September 16-18, 2026, Graz, Austria
+- [DASC 2026](https://dasconline.org/2026), September 13-17 2026, Orlando, FLA, USA
 - [CAV 2026](https://conferences.i-cav.org/2026/), July 26–29 2026, Lisbon, Portugal
 - [IJCAR 2026](https://www.floc26.org/ijcar), July 26–29 2026, Lisbon, Portugal
+- [SMT 2025](https://smt-workshop.cs.uiowa.edu/2025/index.shtml), August 10–11, 2025, Glasgow, UK
 - [TACAS 2025](https://etaps.org/2025/conferences/tacas/), May 3–8, 2025, Hamilton, Canada
-- [SBFN 2023](https://sbmf23.ufam.edu.br), December 4 – 8, 2023, Manaus, Brazil
-- [Overlay-23](https://overlay.uniud.it/workshop/2023/), November 6 – 9, 2023, Rome, Italy
+- [SBFN 2023](https://sbmf23.ufam.edu.br), December 4–8, 2023, Manaus, Brazil
+- [Overlay-23](https://overlay.uniud.it/workshop/2023/), November 6-9, 2023, Rome, Italy
 - [SC<sup>2</sup> 2023](http://www.sc-square.org/CSA/workshop8.html), July 28, 2023, Tromsø, Norway
-- [CADE-29](https://easyconferences.eu/cade2023/), July 1 – 4, 2023, Rome, Italy
+- [CADE-29](https://easyconferences.eu/cade2023/), July 1–4, 2023, Rome, Italy
 - [TACAS 2023](https://etaps.org/2023/tacas), April 24–27, 2023, Paris, France
 - [HILT 2022](https://conf.researchr.org/home/hilt-2022), October 10, 2022, Ann Arbor, MI, USA
 - [TACAS 2022](https://etaps.org/2022/tacas), April 2–7, 2022, Munich, Germany
