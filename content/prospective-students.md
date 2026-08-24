@@ -10,6 +10,8 @@ description: "Notes to Prospective Graduate Students."
 These notes are meant to provide you with additional information 
 on the graduate programs at the Computer Science Department 
 at the University of Iowa, and on the admission process.
+More information about the admission process is available on our
+CS department's [website](https://cs.uiowa.edu/graduate/admissions).
 
 
 ### Admissions
@@ -22,8 +24,6 @@ which means in particular that no one can assess beforehand
 an applicant's chances of being admitted.
 Admission is competitive and no individual faculty member can decide, 
 promise or guarantee admission or financial aid.
-More information about the admission process is available on our
-CS department's [website](https://cs.uiowa.edu/graduate/admissions).
 
 {{< collapse summary="**PhD program**" >}}
 <br>
@@ -59,13 +59,15 @@ in good academic standing.
 Assistantships from the department include paid tuitions and a salary that 
 historically has been more than adequate for living in Iowa City.
 <br>
-MCS students are eligible for assistantships but are provided with no guarantees
-that they will be offered one. 
+MCS students are eligible for assistantships but are provided 
+with no guarantees that they will be offered one. 
 When they do get one, it is almost invariably a teaching assistantship.
 Historically, because of the large demand for TA's in our department and,
 in general, for people with IT skills across campus, many MCS students 
 have succeeded in finding assistanships or other forms or employment
 at the university.
+However, it is expected that, starting in 2026, it will be increasingly
+unlikely for MCS students to get teaching assistanships.
 {{< /collapse >}}
 
 ### Contacting me directly

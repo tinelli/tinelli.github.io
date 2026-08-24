@@ -6,6 +6,13 @@ description: "Honorw and awards received by Prof. Cesare Tinelli."
 ## Honors
 
 --- 
+#### Professorships
+
+* [Erich Funke Professor](https://cs.uiowa.edu/news/2026/07/dr-cesare-tinelli-honored-clas-erich-funke-professor), 2026--31
+
+* [F. Wendell Miller Professor](https://facultyhonors.clas.uiowa.edu/named-faculty-appointments/named-professorships#:~:text=Cesare%20Tinelli), 2019--26
+
+--- 
 #### Program Conference Chairing
 
 [CADE-29](https://easyconferences.eu/cade2023/) &bull;
@@ -60,8 +67,6 @@ Handbook of Model Checking, 2nd ed., 2026 (in preparation) &bull;
 
 * [ETAPS Rance-Cleaveland Test-of-Time Tool Award ](https://etaps.org/awards/test-of-time-tool/) (for cvc5), 2026
 
-* [F. Wendell Miller Professor](https://facultyhonors.clas.uiowa.edu/named-faculty-appointments/named-professorships), 2024--27
-
 * [FM Distinguish Tutorial Award](https://www.fm24.polimi.it), 2024
 
 * [ETAPS SCP Best Tool Paper Award](https://etaps.org/2022/best-papers), 2022
@@ -69,8 +74,6 @@ Handbook of Model Checking, 2nd ed., 2026 (in preparation) &bull;
 * [CAV Award](http://i-cav.org/2021/cav-award/), 2021
 
 * [EATCS Best Paper Award Nominee](https://etaps.org/2021/best-papers), 2021
-
-* [F. Wendell Miller Professor](https://facultyhonors.clas.uiowa.edu/named-faculty-appointments/named-professorships), 2019--24
 
 * [FMCAD Honorable mention](https://fmcad.forsyte.at/FMCAD19/awards/), 2019
 
