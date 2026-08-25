@@ -1,16 +1,21 @@
 ---
 title: "Office Hours"
 hidemeta: true
+ShowToc: false
 description: "Schedule and location for Prof. Tinelli's office hours."
 ---
 
---- 
-#### Schedule (Summer 2026)
+### Fall 2026
 
-<!-- Tue 2:15pm-3:45pm (Office or Zoom),<br>
-Thu 3:15pm-4:45pm (Office or Zoom),<br>
-and  -->
-By appointment (Office or Zoom).
+--- 
+#### Schedule 
+
+* Mon 2:30pm-3:30pm
+* Wed 11:20am-12:30pm
+* Thu 3:15pm-4:45pm and
+* by appointment
+
+All hours are at the office and on Zoom.
 
 ---
 

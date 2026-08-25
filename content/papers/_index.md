@@ -11,13 +11,14 @@ description: "Preprints and articles by Prof. Cesare Tinelli."
 ## Publications
 --- 
 
-Please see the following 
-[up-to-date list of publications](https://iro.uiowa.edu/esploro/profile/cesare_tinelli/output/publication?institution=01IOWA_INST).
-
-More recent technical reports are on [ArXiv](https://arxiv.org/search/?query=cesare+tinelli&searchtype=author&source=header).
+Please see the following fairly up-to-date
+[list of publications](https://iro.uiowa.edu/esploro/profile/cesare_tinelli/output/publication?institution=01IOWA_INST).
 
 You can also check
 [BDLP](http://dblp.org/pers/hd/t/Tinelli:Cesare)
 and 
 [Google Scholar](https://scholar.google.com/citations?user=wbZc9nUAAAAJ&hl=en).
+
+Recent technical reports are on [ArXiv](https://arxiv.org/search/?query=cesare+tinelli&searchtype=author&source=header).
+
 

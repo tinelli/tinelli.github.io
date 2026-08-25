@@ -140,7 +140,7 @@ params:
     - name: Location
       url: location/
     - name: Office Hours
-      url: officehours/
+      url: office-hours/
     - name: Google Scholar
       url: https://scholar.google.com/citations?user=wbZc9nUAAAAJ&hl=en
     - name: orcid
