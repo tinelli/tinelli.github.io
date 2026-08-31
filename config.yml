@@ -103,6 +103,8 @@ params:
         url: courses/
       - name: Service
         url: service/
+      - name: Prospective Students
+        url: prospective-students/
       # - name: Tags
       #   url: tags/
       # - name: Archive
