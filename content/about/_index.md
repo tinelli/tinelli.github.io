@@ -21,7 +21,8 @@ description: "About Prof. Cesare Tinelli."
 
 {{< collapse summary="**Short bio**" >}}
 <br>
-Cesare Tinelli is a Erich Funke Professor of Computer Science at the University of Iowa. His research interests include automated reasoning, formal methods, foundations of programming languages, and applications of logic in computer science. 
+Cesare Tinelli is an Erich Funke Professor of Computer Science at the University of Iowa. His research interests include automated reasoning, formal methods, foundations of programming languages, and applications of logic in computer science. 
+
 
 He has done seminal work in automated reasoning, in particular in Satisfiability Modulo Theories (SMT), a field he helped establish through his research and service activities. His research has been funded both by governmental agencies (AFOSR, AFRL, DARPA, NASA, NSF, and ONR) and corporations (including Amazon, Intel, General Electric, Facebook, Rockwell Collins, and United Technologies). 
 His work has appeared in more than 120 peer-reviewed publications.

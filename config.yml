@@ -53,10 +53,10 @@ params:
   profileMode:
     title: Professor Cesare Tinelli
     subtitle: 
-     "I am a Professor of [Computer Science](https://www.cs.uiowa.edu/)
+     "I am an Erich Funke Professor of [Computer Science](https://www.cs.uiowa.edu/)
       at the [University of Iowa](https://www.uiowa.edu/). 
       I have a PhD from the University of Illinois at Urbana-Champaign.
-      My geneal research interests include automated reasoning, formal methods,
+      My geneal research interests include automated reasoning, formaL methods,
       and software verification.
       I have done foundational work in 
       [Satisfiability Modulo Theories](http://en.wikipedia.org/wiki/Satisfiability_Modulo_Theories)
@@ -71,10 +71,11 @@ params:
       I am one of the founding faculty members of the 
       [Computational Logic Center](https://clc.cs.uiowa.edu) at Iowa.
       <br><br>
-      I am always **looking for motivated and well prepared graduate students
-      and postdocs** to join my team.
-      If you are a prospective student, please read 
-      [this page](prospective-students) before contacting me.
+
+      I am always *looking for motivated and well prepared graduate students
+      and postdocs* to join my team.
+      If you are a prospective student, please **read 
+      [this page](prospective-students)** before contacting me.
       If you are a prospective postdoc, please contact me directly
       for more information on possible openings.
       "
