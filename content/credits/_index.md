@@ -185,7 +185,7 @@ which have funded my research and related activities over the years.
 [NSF](https://www.nsf.gov) (1999-2002, 2003--8, 2006--08, 2009--12, 2010--11, 2010--12, 2011--17, 2017--23, 2020--22, 2020--23, 2023--25, 2024--26),
 [ONR](https://www.onr.navy.mil) (2017--21),
 
-[AWS](https://aws.amazon.com) (2018--25),
+[AWS](https://aws.amazon.com) (2018--26),
 [Certora](https://www.certora.com) (2022--23),
 Novi-Facebook() (2021--22)
 GE Global Research (2017--18, 2018--19)
@@ -246,6 +246,7 @@ Ruzica Piskac,
 Marc Pouzet,
 John Regehr,
 Ray Richards,
+Subhajit Roy,
 Philipp Rümmer,
 Fabio Somenzi,
 Wolfram Schulte,
