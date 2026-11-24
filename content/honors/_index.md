@@ -9,9 +9,11 @@ description: "Honors and awards received by Prof. Cesare Tinelli."
 
 #### Professorships
 
-* [Erich Funke Professor](https://cs.uiowa.edu/news/2026/07/dr-cesare-tinelli-honored-clas-erich-funke-professor), 2026--31
+* [Erich Funke Professor](https://clas.uiowa.edu/about/faculty-awards/named-professorships#:~:text=Cesare%20Tinelli), 2026--31
+* [F. Wendell Miller Professor](https://clas.uiowa.edu/about/faculty-awards/named-professorships#:~:text=Cesare%20Tinelli), 2019--26
 
-* [F. Wendell Miller Professor](https://facultyhonors.clas.uiowa.edu/named-faculty-appointments/named-professorships#:~:text=Cesare%20Tinelli), 2019--26
+<!-- * [Erich Funke Professor](https://cs.uiowa.edu/news/2026/07/dr-cesare-tinelli-honored-clas-erich-funke-professor), 2026--31 -->
+
 
 ---
 
@@ -25,6 +27,7 @@ description: "Honors and awards received by Prof. Cesare Tinelli."
 
 #### Invited and Keynote talks
 
+[LPAR 2026](https://easychair.org/smart-program/LPAR-26/invited.html) &bull;
 [VMW 2025](https://conferences.i-cav.org/2025/mentoring/) &bull;
 [SAT 2024](https://satisfiability.org/SAT24/speakers.php) &bull;
 [MOSCA 2023](https://mosca2023.github.io/index.html) &bull;
@@ -37,7 +40,7 @@ description: "Honors and awards received by Prof. Cesare Tinelli."
 [SVARM 2013](http://richmodels.epfl.ch/) &bull;
 [COMPARE 2012](http://compare2012.verifythis.org/) &bull;
 [NFM 2012](http://shemesh.larc.nasa.gov/nfm2012/) &bull;
-[FT Summer School 2011](http://fm.csl.sri.com/SSFT11/) &bull;
+[FT Summer School 2011](https://fm.csl.sri.com/SSFT11/index.shtml) &bull;
 [WoLLIC 2010](https://wollic.org/wollic2010/cfp.html) &bull;
 [VERIFY 2007](http://www.uni-koblenz.de/~beckert/verify07/) &bull;
 [TABLEAUX 2007](http://tableaux2007.univ-cezanne.fr/) &bull;
