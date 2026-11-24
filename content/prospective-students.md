@@ -7,12 +7,11 @@ description: "Notes to Prospective Graduate Students."
 
 ---
 
-These notes are meant to provide you with additional information 
+These notes are meant to provide you with some information 
 on the graduate programs at the Computer Science Department 
-at the University of Iowa, and on the admission process.
-More information about the admission process is available on our
+at the University of Iowa and on the admission process
+in addition to what can find on our
 CS department's [website](https://cs.uiowa.edu/graduate/admissions).
-
 
 ### Admissions
 
@@ -27,12 +26,12 @@ promise or guarantee admission or financial aid.
 
 {{< collapse summary="**PhD program**" >}}
 <br>
-Incoming PhD students spend their first semester largely doing course work, 
-and are strongly encouraged to select an advisor within the first year,
+Incoming PhD students spend their first semester largely doing course work
+but are strongly encouraged to select an advisor within the first year,
 based on a match of mutual interests.
 If at application time you are already interested in particular research areas
 or, more specifically, in the work of some of our faculty, it is helpful
-to express that interest in your application, so that the admissions committee
+to indicate that in your application, so that the admissions committee
 can consult with the interested faculty to better evaluate the application. 
 {{< /collapse >}}
 
@@ -47,6 +46,8 @@ Note that students already in the MCS program can apply to the PhD program,
 subject to the same criteria as external applicants. 
 If admitted, they can transfer their earned course credit from the MCS
 to the PhD.
+Also, PhD students who decide for whatever reason to leave the program
+can graduate with an MCS instead if they satisfy the MCS requirements.
 {{< /collapse >}}
 
 {{< collapse summary="**Financial aid**" >}}
@@ -72,12 +73,15 @@ unlikely for MCS students to get teaching assistanships.
 
 ### Contacting me directly
 
-Every year I receive a fair number of email messages from prospective students
-expressing an interest in working with me. 
-Regrettably, I cannot reply to each of them individually. 
-I am, however, happy to respond to inquiries from students who have made
-an effort to learn about my research --- as opposed to cookie-cutter messages 
-containing generic expressions of interest. 
-If your letter shows you have a genuine interest in what I work on
+Every year I receive a fairly large number of email messages 
+from prospective graduate students saying they are interested in joining 
+my research group and asking for an online meeting. 
+Regrettably, I do not have the time to meet with them, or even reply
+to all of them individually.
+I am, however, happy to respond to inquiries showing the student has made
+a genuine effort to learn about my research --- as opposed to just containing 
+generic expressions of interest.
+Unless your message shows you really are interested in what I work on
 (for instance, for having worked on similar topics yourself or having read
-in some depth at least one of my papers), I will definitely respond.
+in some depth at least one of my papers), it is highly unlikely 
+that I will respond.
