@@ -114,7 +114,7 @@ params:
       #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
   # googleAnalyticsID: "G-XXXXX"
   DateFormat: "January 2006"
-  defaultTheme: light
+  defaultTheme: dark # Options: light, dark, auto
   hideFooter: false
   disableThemeToggle: false
   ShowShareButtons: false
